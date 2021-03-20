@@ -1,4 +1,4 @@
-# simple-library
+# Simple Library
 
 ## Technologies
 
@@ -19,3 +19,19 @@ Java, Servlets, Maven
 ### User can: 
 
 - view added books
+
+## Views
+
+### Login Page 
+
+![](LoginPage.png)
+
+![](loginInput.png)
+
+### User Books display
+
+![](userBookList.png)
+
+### Admin Books display
+
+![](BooksList.png)
